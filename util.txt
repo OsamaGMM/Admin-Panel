@@ -1,4 +1,0 @@
-Utilisateur de test
--------------------
-courriel : admin@test.com
-mdp : admin 
