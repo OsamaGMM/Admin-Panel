@@ -87,7 +87,7 @@
                         </select>
                     </span>
                     <span class="action">
-                        <button type="submit" formaction="?op=modification" class="btn btn-modifier">selectionner</button>
+                        <button type="submit" formaction="?op=modification" class="btn btn-modifier">modifier</button>
                         <button type="submit" formaction="?op=suppression" class="btn btn-supprimer">supprimer</button>
                     </span>
                 </form>
