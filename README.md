@@ -10,7 +10,7 @@ Gestion de contenu : possibilité de créer, de modifier et de supprimer des ca
 
 ## Démo
 
-![](https://github.com/Admin-Panel/demo.gif)
+![](https://github.com/OsamaGMM/Admin-Panel/blob/main/demo.gif)
 
 
 ## Tech
